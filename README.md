@@ -1,7 +1,7 @@
 # Cloud Resilience Assessment Framework for Smart Powergrid Systems using Multi-Agent Artificial Intelligence
 
 ## Team Members
-* **M Arun Srinivas**
+* **M Arun Srinivaas**
 * **Bhavya Verma**
 * **Mohit Gupta**
 
